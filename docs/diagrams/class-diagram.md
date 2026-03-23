@@ -111,7 +111,7 @@ classDiagram
         +GET /api/books
         +POST /api/authors
         +POST /api/books
-        +POST /api/reviews/{id}
+        +POST /api/reviews/:id
         +POST /api/catalog/seed
         +GET /api/search/authors
         +GET /api/search/books
