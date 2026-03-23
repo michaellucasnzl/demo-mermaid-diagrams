@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BookCatalog.Application/BookCatalog.Application.csproj" />
+  <Project Path="BookCatalog.Domain/BookCatalog.Domain.csproj" />
+  <Project Path="BookCatalog.Infrastructure/BookCatalog.Infrastructure.csproj" />
+  <Project Path="BookCatalog.Presentation/BookCatalog.Presentation.Api/BookCatalog.Presentation.Api.csproj" />
+  <Project Path="BookCatalog.Presentation/BookCatalog.Presentation.Console/BookCatalog.Presentation.Console.csproj" />
+</Solution>
